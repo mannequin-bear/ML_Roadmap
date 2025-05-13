@@ -26,19 +26,19 @@ The goal of this level is to get you familiar with the ML universe. You will lea
            - Basics of Flask - https://www.youtube.com/watch?v=swHI1H7DVsQ
         4. Practice Problems - https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing
 
-2. #### Learn Numpy (Est. time 3 Days)
+2. #### Learn Numpy (Est. time 3 Days) - 13/05
         1. Numpy Playlist - https://www.youtube.com/watch?v=CpPLLp3snK4&list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT
         2. Numpy Practice Problems - https://github.com/rougier/numpy-100
 
-3. #### Learn Pandas (Est. time 4 Days)
+3. #### Learn Pandas (Est. time 4 Days) - 14/05
         1. Pandas Playlist - https://www.youtube.com/watch?v=kq9Vmg5d7Sk&list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
         2. Pandas Problems - https://github.com/ajcr/100-pandas-puzzles
 
-4. #### Learn Data Visualization (Est. time 1 Week)
+4. #### Learn Data Visualization (Est. time 1 Week) - 15/05
         1. Matplotlib - https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
         2. Seaborn - https://www.youtube.com/playlist?list=PLKnIA16_RmvbB1bFGjvS6a8T0mnqawejo
 
-5. #### Descriptive Statistics (Est. time 4 Days)
+5. #### Descriptive Statistics (Est. time 4 Days) - 17/05
         1. Statistics Playlist - https://www.youtube.com/watch?v=tPhzDKjQBpo&list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1
 
 6. #### Learn Data Analysis Process (Est. time 1 week)
