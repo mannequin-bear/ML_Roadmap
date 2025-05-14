@@ -30,7 +30,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         1. Numpy Playlist - https://www.youtube.com/watch?v=CpPLLp3snK4&list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT
         2. Numpy Practice Problems - https://github.com/rougier/numpy-100
 
-3. #### Learn Pandas (Est. time 4 Days) - 14/05
+3. #### ~Learn Pandas (Est. time 4 Days) - 14/05~
         1. Pandas Playlist - https://www.youtube.com/watch?v=kq9Vmg5d7Sk&list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
         2. Pandas Problems - https://github.com/ajcr/100-pandas-puzzles
 
