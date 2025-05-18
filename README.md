@@ -38,7 +38,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         1. Matplotlib - https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
         2. Seaborn - https://www.youtube.com/playlist?list=PLKnIA16_RmvbB1bFGjvS6a8T0mnqawejo
 
-5. #### Descriptive Statistics (Est. time 4 Days) - 17/05
+5. #### ~Descriptive Statistics (Est. time 4 Days) - 17/05~
         1. Statistics Playlist - https://www.youtube.com/watch?v=tPhzDKjQBpo&list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1
 
 6. #### Learn Data Analysis Process (Est. time 1 week)
@@ -116,7 +116,7 @@ The goal of this level is to learn the core machine learning concepts and algori
         2. Maxima and Minima
         3. Playlist link - (first 4 videos only) https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
 9. #### Machine Learning Algorithms
-        1. Linear Regression - https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr
+        ~1. Linear Regression - https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr~
         2. Gradient Descent - https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1
         3. Logistic Regression - https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvb-ZTsM1QS-tlwmlkeGSnru
         4. Support Vector Machines - https://www.youtube.com/watch?v=ugTxMLjLS8M&list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL
