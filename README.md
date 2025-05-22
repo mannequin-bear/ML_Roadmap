@@ -121,7 +121,7 @@ The goal of this level is to learn the core machine learning concepts and algori
         3. Logistic Regression - https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvb-ZTsM1QS-tlwmlkeGSnru (done)
         4. Support Vector Machines - https://www.youtube.com/watch?v=ugTxMLjLS8M&list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL (done)
         5. Naive Bayes - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l
-        6. K Nearest Neighbors - https://www.youtube.com/watch?v=BYaoDZM1IcU&list=PLKnIA16_RmvZiE-lEdN5RDi18-u-T43zd
+        6. K Nearest Neighbors - https://www.youtube.com/watch?v=BYaoDZM1IcU&list=PLKnIA16_RmvZiE-lEdN5RDi18-u-T43zd (done)
         7. Decision Trees - https://www.youtube.com/watch?v=gwgmSSTdiXs&list=PLKnIA16_RmvYGY_n9PP8zN-0LG9MoZRjU
         8. Random Forest - https://www.youtube.com/watch?v=bHK1fE_BUms&list=PLKnIA16_RmvZyqP3WGUo7iVziIIea_1bp
         9. Bagging - https://www.youtube.com/watch?v=LUiBOAy7x6Y&list=PLKnIA16_RmvZ7iKIcJrLjUoFDEeSejRpn
